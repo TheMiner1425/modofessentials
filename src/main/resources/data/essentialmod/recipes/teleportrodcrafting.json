@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    {
+      "item": "minecraft:end_rod"
+    }
+  ],
+  "result":
+  {
+    "item": "examplemod:teleportrod",
+    "count": 1
+  }
+}

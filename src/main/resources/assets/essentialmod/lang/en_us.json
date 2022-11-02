@@ -1,0 +1,20 @@
+{
+  "item.essentialmod.structuregel": "Structure Gel",
+  "block.essentialmod.castlewall": "Castle Wall",
+  "item.essentialmod.gelore" : "Gel Ore",
+  "item.essentialmod.money" : "Money",
+  "item.essentialmod.tamales" : "Tamales",
+  "item.essentialmod.pizza" : "Pizza",
+  "item.essentialmod.gem" : "Gem",
+  "item.essentialmod.teleportrod": "Teleport Rod",
+  "item.essentialmod.lightninghammer" : "Lightning Hammer",
+  "block.essentialmod.geloreblock": "Gel Ore Block",
+  "block.essentialmod.trampoline": "Trampoline",
+  "block.essentialmod.creepingmold": "Creeping Mold Block",
+  "block.essentialmod.creepersurprise": "Creeper Surprise Block",
+  "item.essentialmod.gelpickaxe": "Gel Pickaxe",
+  "item.essentialmod.gelsword": "Gel Sword",
+  "item.essentialmod.gel_armor_helmet" : "Gel Helmet",
+  "entity.essentialmod.zombo": "Zombo",
+  "item.essentialmod.zombo_egg": "Zombo Spawn Egg"
+}

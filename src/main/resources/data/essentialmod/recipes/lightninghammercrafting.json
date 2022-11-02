@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "essentalmod:gem"
+    },
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result":
+  {
+    "item": "essentialmod:lightninghammer",
+    "count": 1
+  }
+}

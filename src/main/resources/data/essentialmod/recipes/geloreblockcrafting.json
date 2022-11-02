@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:acacia_log"
+    },
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "result":
+  {
+    "item": "essentialmod:geloreblock",
+    "count": 1
+  }
+}

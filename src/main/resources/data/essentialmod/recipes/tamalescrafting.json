@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    " y ",
+    " z "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:wheat"
+    },
+    "y": {
+      "item": "minecraft:beef"
+    },
+    "z": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "examplemod:tamales"
+  }
+}
+
