@@ -10,6 +10,7 @@ public class CustomArmorItem extends ArmorItem {
     private static Properties properties = new Properties().tab(CreativeModeTab.TAB_COMBAT);
     private static ArmorMaterial customMaterial = ItemUtils.buildArmorMaterial("gel", 100, new int[]{5,8,6,4} ,5,  SoundEvents.ARMOR_EQUIP_NETHERITE, 20.0f, 10.3f,"examplemod:gelore");
     public static final Item HELM = new CustomArmorItem(customMaterial, EquipmentSlot.HEAD, (properties)).setRegistryName(BaseMod.MODID, "gel_armor_helmet");
+    public static final Item CHES = new CustomArmorItem(customMaterial, EquipmentSlot.CHEST, (properties)).setRegistryName(BaseMod.MODID, "gel_armor_chestplate");
     public CustomArmorItem(ArmorMaterial material, EquipmentSlot slot, Properties properties) {
         super(material, slot, properties);
 
