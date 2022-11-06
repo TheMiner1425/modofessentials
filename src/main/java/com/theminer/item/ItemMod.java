@@ -43,6 +43,9 @@ public class ItemMod {
         event.getRegistry().register(pizza);
         // ARMOR
         event.getRegistry().register(CustomArmorItem.HELM);
+        event.getRegistry().register(CustomArmorItem.CHEST);
+        event.getRegistry().register(CustomArmorItem.BOOTS);
+        event.getRegistry().register(CustomArmorItem.LEGGINGS);
 
         //PROJECTILES
 

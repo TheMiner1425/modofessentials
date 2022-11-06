@@ -16,5 +16,8 @@
   "item.essentialmod.gelsword": "Gel Sword",
   "item.essentialmod.gel_armor_helmet" : "Gel Helmet",
   "entity.essentialmod.zombo": "Zombo",
-  "item.essentialmod.zombo_egg": "Zombo Spawn Egg"
+  "item.essentialmod.zombo_egg": "Zombo Spawn Egg",
+  "item.essentialmod.gel_armor_chestplate": "Gel Chestplate",
+  "item.essentialmod.gel_armor_leggings": "Gel Leggings",
+  "item.essentialmod.gel_armor_boots": "Gel Boots"
 }
